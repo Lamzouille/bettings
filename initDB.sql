@@ -3,7 +3,9 @@
 -- Creation de la structure
 
 CREATE TABLE T_HISTORY(
-  d_bet DATE,
-  n_value NUMBER,
+  ID
+  DATE_BET DATE,
+  VALUE_BET NUMBER,
 );
 
+ALTER TABLE T_HISTORY ADD PRIMARY KEY(ID);
