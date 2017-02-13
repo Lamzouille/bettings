@@ -1,0 +1,1114 @@
+*********** # 1 **************
+PokerStars Hand #166010735558: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level IV (30/60) - 2017/02/11 0:00:56 CET [2017/02/10 18:00:56 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (380 in chips)
+Seat 3: Lamzouille59 (1120 in chips)
+Lamzouille59: posts small blind 30
+xav59310: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Kd Qc]
+Lamzouille59: raises 60 to 120
+xav59310: raises 260 to 380 and is all-in
+Lamzouille59: calls 260
+*** FLOP *** [Qd 6c 3d]
+*** TURN *** [Qd 6c 3d] [5c]
+*** RIVER *** [Qd 6c 3d 5c] [As]
+*** SHOW DOWN ***
+xav59310: shows [7d Ks] (high card Ace)
+Lamzouille59: shows [Kd Qc] (a pair of Queens)
+Lamzouille59 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0
+Board [Qd 6c 3d 5c As]
+Seat 2: xav59310 (big blind) showed [7d Ks] and lost with high card Ace
+Seat 3: Lamzouille59 (button) (small blind) showed [Kd Qc] and won (760) with a pair of Queens
+
+
+*********** # 2 **************
+PokerStars Hand #166010727035: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level IV (30/60) - 2017/02/11 0:00:45 CET [2017/02/10 18:00:45 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (440 in chips)
+Seat 3: Lamzouille59 (1060 in chips)
+xav59310: posts small blind 30
+Lamzouille59: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Ts 4c]
+xav59310: calls 30
+Lamzouille59: checks
+*** FLOP *** [2c Ac 4h]
+Lamzouille59: bets 120
+xav59310: folds
+Uncalled bet (120) returned to Lamzouille59
+Lamzouille59 collected 120 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board [2c Ac 4h]
+Seat 2: xav59310 (button) (small blind) folded on the Flop
+Seat 3: Lamzouille59 (big blind) collected (120)
+
+
+*********** # 3 **************
+PokerStars Hand #166010720071: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level IV (30/60) - 2017/02/11 0:00:36 CET [2017/02/10 18:00:36 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (380 in chips)
+Seat 3: Lamzouille59 (1120 in chips)
+Lamzouille59: posts small blind 30
+xav59310: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Qc 6c]
+Lamzouille59: calls 30
+xav59310: raises 320 to 380 and is all-in
+Lamzouille59: folds
+Uncalled bet (320) returned to xav59310
+xav59310 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 2: xav59310 (big blind) collected (120)
+Seat 3: Lamzouille59 (button) (small blind) folded before Flop
+
+
+*********** # 4 **************
+PokerStars Hand #166010717248: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level IV (30/60) - 2017/02/11 0:00:33 CET [2017/02/10 18:00:33 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (410 in chips)
+Seat 3: Lamzouille59 (1090 in chips)
+xav59310: posts small blind 30
+Lamzouille59: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [2h Qh]
+xav59310: folds
+Uncalled bet (30) returned to Lamzouille59
+Lamzouille59 collected 60 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 2: xav59310 (button) (small blind) folded before Flop
+Seat 3: Lamzouille59 (big blind) collected (60)
+
+
+*********** # 5 **************
+PokerStars Hand #166010711772: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level IV (30/60) - 2017/02/11 0:00:26 CET [2017/02/10 18:00:26 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (470 in chips)
+Seat 3: Lamzouille59 (1030 in chips)
+Lamzouille59: posts small blind 30
+xav59310: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [8c Kh]
+Lamzouille59: raises 60 to 120
+xav59310: folds
+Uncalled bet (60) returned to Lamzouille59
+Lamzouille59 collected 120 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 2: xav59310 (big blind) folded before Flop
+Seat 3: Lamzouille59 (button) (small blind) collected (120)
+
+
+*********** # 6 **************
+PokerStars Hand #166010702086: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level IV (30/60) - 2017/02/11 0:00:13 CET [2017/02/10 18:00:13 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (410 in chips)
+Seat 3: Lamzouille59 (1090 in chips)
+xav59310: posts small blind 30
+Lamzouille59: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Td 2h]
+xav59310: calls 30
+Lamzouille59: checks
+*** FLOP *** [9h Ac 7d]
+Lamzouille59: checks
+xav59310: bets 350 and is all-in
+Lamzouille59: folds
+Uncalled bet (350) returned to xav59310
+xav59310 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board [9h Ac 7d]
+Seat 2: xav59310 (button) (small blind) collected (120)
+Seat 3: Lamzouille59 (big blind) folded on the Flop
+
+
+*********** # 7 **************
+PokerStars Hand #166010690528: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:59:58 CET [2017/02/10 17:59:58 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (450 in chips)
+Seat 3: Lamzouille59 (1050 in chips)
+Lamzouille59: posts small blind 20
+xav59310: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [7d Js]
+Lamzouille59: calls 20
+xav59310: checks
+*** FLOP *** [3s Td Ac]
+xav59310: checks
+Lamzouille59: bets 40
+xav59310: folds
+Uncalled bet (40) returned to Lamzouille59
+Lamzouille59 collected 80 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Board [3s Td Ac]
+Seat 2: xav59310 (big blind) folded on the Flop
+Seat 3: Lamzouille59 (button) (small blind) collected (80)
+
+
+*********** # 8 **************
+PokerStars Hand #166010684724: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:59:50 CET [2017/02/10 17:59:50 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (490 in chips)
+Seat 3: Lamzouille59 (1010 in chips)
+xav59310: posts small blind 20
+Lamzouille59: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Ts Tc]
+xav59310: calls 20
+Lamzouille59: raises 80 to 120
+xav59310: folds
+Uncalled bet (80) returned to Lamzouille59
+Lamzouille59 collected 80 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Seat 2: xav59310 (button) (small blind) folded before Flop
+Seat 3: Lamzouille59 (big blind) collected (80)
+
+
+*********** # 9 **************
+PokerStars Hand #166010680882: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:59:45 CET [2017/02/10 17:59:45 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (530 in chips)
+Seat 3: Lamzouille59 (970 in chips)
+Lamzouille59: posts small blind 20
+xav59310: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Qs Tc]
+Lamzouille59: raises 40 to 80
+xav59310: folds
+Uncalled bet (40) returned to Lamzouille59
+Lamzouille59 collected 80 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Seat 2: xav59310 (big blind) folded before Flop
+Seat 3: Lamzouille59 (button) (small blind) collected (80)
+
+
+*********** # 10 **************
+PokerStars Hand #166010676320: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:59:39 CET [2017/02/10 17:59:39 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (490 in chips)
+Seat 3: Lamzouille59 (1010 in chips)
+xav59310: posts small blind 20
+Lamzouille59: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Ks 5c]
+xav59310: raises 450 to 490 and is all-in
+Lamzouille59: folds
+Uncalled bet (450) returned to xav59310
+xav59310 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Seat 2: xav59310 (button) (small blind) collected (80)
+Seat 3: Lamzouille59 (big blind) folded before Flop
+
+
+*********** # 11 **************
+PokerStars Hand #166010665647: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:59:24 CET [2017/02/10 17:59:24 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (570 in chips)
+Seat 3: Lamzouille59 (930 in chips)
+Lamzouille59: posts small blind 20
+xav59310: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [9d Ts]
+Lamzouille59: raises 40 to 80
+xav59310: calls 40
+*** FLOP *** [4h Kh 2s]
+xav59310: checks
+Lamzouille59: checks
+*** TURN *** [4h Kh 2s] [3s]
+xav59310: checks
+Lamzouille59: bets 80
+xav59310: folds
+Uncalled bet (80) returned to Lamzouille59
+Lamzouille59 collected 160 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 160 | Rake 0
+Board [4h Kh 2s 3s]
+Seat 2: xav59310 (big blind) folded on the Turn
+Seat 3: Lamzouille59 (button) (small blind) collected (160)
+
+
+*********** # 12 **************
+PokerStars Hand #166010651065: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:59:04 CET [2017/02/10 17:59:04 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (530 in chips)
+Seat 3: Lamzouille59 (970 in chips)
+xav59310: posts small blind 20
+Lamzouille59: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Qc 8h]
+xav59310: calls 20
+Lamzouille59: checks
+*** FLOP *** [3h Jd 6d]
+Lamzouille59: checks
+xav59310: checks
+*** TURN *** [3h Jd 6d] [Th]
+Lamzouille59: checks
+xav59310: bets 80
+Lamzouille59: folds
+Uncalled bet (80) returned to xav59310
+xav59310 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Board [3h Jd 6d Th]
+Seat 2: xav59310 (button) (small blind) collected (80)
+Seat 3: Lamzouille59 (big blind) folded on the Turn
+
+
+*********** # 13 **************
+PokerStars Hand #166010645080: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:58:56 CET [2017/02/10 17:58:56 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (490 in chips)
+Seat 3: Lamzouille59 (1010 in chips)
+Lamzouille59: posts small blind 20
+xav59310: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [9c 6s]
+Lamzouille59: calls 20
+xav59310: raises 450 to 490 and is all-in
+Lamzouille59: folds
+Uncalled bet (450) returned to xav59310
+xav59310 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Seat 2: xav59310 (big blind) collected (80)
+Seat 3: Lamzouille59 (button) (small blind) folded before Flop
+
+
+*********** # 14 **************
+PokerStars Hand #166010631323: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:58:37 CET [2017/02/10 17:58:37 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (610 in chips)
+Seat 3: Lamzouille59 (890 in chips)
+xav59310: posts small blind 20
+Lamzouille59: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [2d 7c]
+xav59310: calls 20
+Lamzouille59: checks
+*** FLOP *** [8c 3d 2h]
+Lamzouille59: checks
+xav59310: checks
+*** TURN *** [8c 3d 2h] [9h]
+Lamzouille59: checks
+xav59310: bets 80
+Lamzouille59: calls 80
+*** RIVER *** [8c 3d 2h 9h] [Ts]
+Lamzouille59: checks
+xav59310: checks
+*** SHOW DOWN ***
+Lamzouille59: shows [2d 7c] (a pair of Deuces)
+xav59310: mucks hand
+Lamzouille59 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0
+Board [8c 3d 2h 9h Ts]
+Seat 2: xav59310 (button) (small blind) mucked [5s Qc]
+Seat 3: Lamzouille59 (big blind) showed [2d 7c] and won (240) with a pair of Deuces
+
+
+*********** # 15 **************
+PokerStars Hand #166010614626: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:58:14 CET [2017/02/10 17:58:14 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (570 in chips)
+Seat 3: Lamzouille59 (930 in chips)
+Lamzouille59: posts small blind 20
+xav59310: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [6c 8c]
+Lamzouille59: calls 20
+xav59310: checks
+*** FLOP *** [3c As 5d]
+xav59310: checks
+Lamzouille59: checks
+*** TURN *** [3c As 5d] [Kh]
+xav59310: checks
+Lamzouille59: checks
+*** RIVER *** [3c As 5d Kh] [Ac]
+xav59310: bets 120
+Lamzouille59: folds
+Uncalled bet (120) returned to xav59310
+xav59310 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Board [3c As 5d Kh Ac]
+Seat 2: xav59310 (big blind) collected (80)
+Seat 3: Lamzouille59 (button) (small blind) folded on the River
+
+
+*********** # 16 **************
+PokerStars Hand #166010604721: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:58:01 CET [2017/02/10 17:58:01 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (530 in chips)
+Seat 3: Lamzouille59 (970 in chips)
+xav59310: posts small blind 20
+Lamzouille59: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [8d As]
+xav59310: calls 20
+Lamzouille59: checks
+*** FLOP *** [6d Tc Js]
+Lamzouille59: checks
+xav59310: bets 120
+Lamzouille59: folds
+Uncalled bet (120) returned to xav59310
+xav59310 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Board [6d Tc Js]
+Seat 2: xav59310 (button) (small blind) collected (80)
+Seat 3: Lamzouille59 (big blind) folded on the Flop
+
+
+*********** # 17 **************
+PokerStars Hand #166010597311: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:57:50 CET [2017/02/10 17:57:50 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (570 in chips)
+Seat 3: Lamzouille59 (930 in chips)
+Lamzouille59: posts small blind 20
+xav59310: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [4c Qh]
+Lamzouille59: calls 20
+xav59310: checks
+*** FLOP *** [3c Jd Kc]
+xav59310: checks
+Lamzouille59: bets 40
+xav59310: folds
+Uncalled bet (40) returned to Lamzouille59
+Lamzouille59 collected 80 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Board [3c Jd Kc]
+Seat 2: xav59310 (big blind) folded on the Flop
+Seat 3: Lamzouille59 (button) (small blind) collected (80)
+
+
+*********** # 18 **************
+PokerStars Hand #166010592784: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:57:44 CET [2017/02/10 17:57:44 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (530 in chips)
+Seat 3: Lamzouille59 (970 in chips)
+xav59310: posts small blind 20
+Lamzouille59: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Th 7d]
+xav59310: raises 490 to 530 and is all-in
+Lamzouille59: folds
+Uncalled bet (490) returned to xav59310
+xav59310 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0
+Seat 2: xav59310 (button) (small blind) collected (80)
+Seat 3: Lamzouille59 (big blind) folded before Flop
+
+
+*********** # 19 **************
+PokerStars Hand #166010590397: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:57:41 CET [2017/02/10 17:57:41 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (510 in chips)
+Seat 3: Lamzouille59 (990 in chips)
+Lamzouille59: posts small blind 20
+xav59310: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [9d 5c]
+Lamzouille59: folds
+Uncalled bet (20) returned to xav59310
+xav59310 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0
+Seat 2: xav59310 (big blind) collected (40)
+Seat 3: Lamzouille59 (button) (small blind) folded before Flop
+
+
+*********** # 20 **************
+PokerStars Hand #166010587653: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:57:37 CET [2017/02/10 17:57:37 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (530 in chips)
+Seat 3: Lamzouille59 (970 in chips)
+xav59310: posts small blind 20
+Lamzouille59: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Kh Ah]
+xav59310: folds
+Uncalled bet (20) returned to Lamzouille59
+Lamzouille59 collected 40 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 40 | Rake 0
+Seat 2: xav59310 (button) (small blind) folded before Flop
+Seat 3: Lamzouille59 (big blind) collected (40)
+
+
+*********** # 21 **************
+PokerStars Hand #166010573074: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level III (20/40) - 2017/02/10 23:57:17 CET [2017/02/10 17:57:17 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (690 in chips)
+Seat 3: Lamzouille59 (810 in chips)
+Lamzouille59: posts small blind 20
+xav59310: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Ac 5d]
+Lamzouille59: raises 40 to 80
+xav59310: calls 40
+*** FLOP *** [Ah 6h 3d]
+xav59310: checks
+Lamzouille59: checks
+*** TURN *** [Ah 6h 3d] [Jh]
+xav59310: checks
+Lamzouille59: bets 80
+xav59310: calls 80
+*** RIVER *** [Ah 6h 3d Jh] [4d]
+xav59310: checks
+Lamzouille59: bets 120
+xav59310: folds
+Uncalled bet (120) returned to Lamzouille59
+Lamzouille59 collected 320 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 320 | Rake 0
+Board [Ah 6h 3d Jh 4d]
+Seat 2: xav59310 (big blind) folded on the River
+Seat 3: Lamzouille59 (button) (small blind) collected (320)
+
+
+*********** # 22 **************
+PokerStars Hand #166010559348: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:56:59 CET [2017/02/10 17:56:59 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (660 in chips)
+Seat 3: Lamzouille59 (840 in chips)
+xav59310: posts small blind 15
+Lamzouille59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [7s 8h]
+xav59310: calls 15
+Lamzouille59: checks
+*** FLOP *** [4d 3h 2c]
+Lamzouille59: checks
+xav59310: bets 90
+Lamzouille59: folds
+Uncalled bet (90) returned to xav59310
+xav59310 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Board [4d 3h 2c]
+Seat 2: xav59310 (button) (small blind) collected (60)
+Seat 3: Lamzouille59 (big blind) folded on the Flop
+
+
+*********** # 23 **************
+PokerStars Hand #166010556880: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:56:55 CET [2017/02/10 17:56:55 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (645 in chips)
+Seat 3: Lamzouille59 (855 in chips)
+Lamzouille59: posts small blind 15
+xav59310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [2c 6h]
+Lamzouille59: folds
+Uncalled bet (15) returned to xav59310
+xav59310 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 2: xav59310 (big blind) collected (30)
+Seat 3: Lamzouille59 (button) (small blind) folded before Flop
+
+
+*********** # 24 **************
+PokerStars Hand #166010552287: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:56:49 CET [2017/02/10 17:56:49 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (615 in chips)
+Seat 3: Lamzouille59 (885 in chips)
+xav59310: posts small blind 15
+Lamzouille59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Js 4c]
+xav59310: raises 585 to 615 and is all-in
+Lamzouille59: folds
+Uncalled bet (585) returned to xav59310
+xav59310 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 2: xav59310 (button) (small blind) collected (60)
+Seat 3: Lamzouille59 (big blind) folded before Flop
+
+
+*********** # 25 **************
+PokerStars Hand #166010543335: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:56:37 CET [2017/02/10 17:56:37 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (675 in chips)
+Seat 3: Lamzouille59 (825 in chips)
+Lamzouille59: posts small blind 15
+xav59310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [6h Ad]
+Lamzouille59: raises 30 to 60
+xav59310: calls 30
+*** FLOP *** [9d 6c 3h]
+xav59310: checks
+Lamzouille59: bets 60
+xav59310: folds
+Uncalled bet (60) returned to Lamzouille59
+Lamzouille59 collected 120 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board [9d 6c 3h]
+Seat 2: xav59310 (big blind) folded on the Flop
+Seat 3: Lamzouille59 (button) (small blind) collected (120)
+
+
+*********** # 26 **************
+PokerStars Hand #166010534890: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:56:25 CET [2017/02/10 17:56:25 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (645 in chips)
+Seat 3: Lamzouille59 (855 in chips)
+xav59310: posts small blind 15
+Lamzouille59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [8d 2h]
+xav59310: calls 15
+Lamzouille59: checks
+*** FLOP *** [As Th 2s]
+Lamzouille59: checks
+xav59310: bets 60
+Lamzouille59: folds
+Uncalled bet (60) returned to xav59310
+xav59310 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Board [As Th 2s]
+Seat 2: xav59310 (button) (small blind) collected (60)
+Seat 3: Lamzouille59 (big blind) folded on the Flop
+
+
+*********** # 27 **************
+PokerStars Hand #166010531301: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:56:20 CET [2017/02/10 17:56:20 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (630 in chips)
+Seat 3: Lamzouille59 (870 in chips)
+Lamzouille59: posts small blind 15
+xav59310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [4h 7d]
+Lamzouille59: folds
+Uncalled bet (15) returned to xav59310
+xav59310 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 2: xav59310 (big blind) collected (30)
+Seat 3: Lamzouille59 (button) (small blind) folded before Flop
+
+
+*********** # 28 **************
+PokerStars Hand #166010525828: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:56:13 CET [2017/02/10 17:56:13 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (690 in chips)
+Seat 3: Lamzouille59 (810 in chips)
+xav59310: posts small blind 15
+Lamzouille59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Qs Qh]
+xav59310: raises 30 to 60
+Lamzouille59: raises 120 to 180
+xav59310: folds
+Uncalled bet (120) returned to Lamzouille59
+Lamzouille59 collected 120 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 2: xav59310 (button) (small blind) folded before Flop
+Seat 3: Lamzouille59 (big blind) collected (120)
+
+
+*********** # 29 **************
+PokerStars Hand #166010520768: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:56:06 CET [2017/02/10 17:56:06 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (720 in chips)
+Seat 3: Lamzouille59 (780 in chips)
+Lamzouille59: posts small blind 15
+xav59310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Ks Ad]
+Lamzouille59: raises 45 to 75
+xav59310: folds
+Uncalled bet (45) returned to Lamzouille59
+Lamzouille59 collected 60 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 2: xav59310 (big blind) folded before Flop
+Seat 3: Lamzouille59 (button) (small blind) collected (60)
+
+
+*********** # 30 **************
+PokerStars Hand #166010517947: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:56:02 CET [2017/02/10 17:56:02 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (735 in chips)
+Seat 3: Lamzouille59 (765 in chips)
+xav59310: posts small blind 15
+Lamzouille59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [7h Kc]
+xav59310: folds
+Uncalled bet (15) returned to Lamzouille59
+Lamzouille59 collected 30 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 2: xav59310 (button) (small blind) folded before Flop
+Seat 3: Lamzouille59 (big blind) collected (30)
+
+
+*********** # 31 **************
+PokerStars Hand #166010503711: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:55:42 CET [2017/02/10 17:55:42 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (825 in chips)
+Seat 3: Lamzouille59 (675 in chips)
+Lamzouille59: posts small blind 15
+xav59310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [As 4s]
+Lamzouille59: raises 30 to 60
+xav59310: calls 30
+*** FLOP *** [Tc Jh 5c]
+xav59310: checks
+Lamzouille59: checks
+*** TURN *** [Tc Jh 5c] [5h]
+xav59310: checks
+Lamzouille59: checks
+*** RIVER *** [Tc Jh 5c 5h] [4d]
+xav59310: checks
+Lamzouille59: bets 30
+xav59310: calls 30
+*** SHOW DOWN ***
+Lamzouille59: shows [As 4s] (two pair, Fives and Fours)
+xav59310: mucks hand
+Lamzouille59 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Board [Tc Jh 5c 5h 4d]
+Seat 2: xav59310 (big blind) mucked [Ks 9d]
+Seat 3: Lamzouille59 (button) (small blind) showed [As 4s] and won (180) with two pair, Fives and Fours
+
+
+*********** # 32 **************
+PokerStars Hand #166010493889: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:55:29 CET [2017/02/10 17:55:29 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (795 in chips)
+Seat 3: Lamzouille59 (705 in chips)
+xav59310: posts small blind 15
+Lamzouille59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [6d 3h]
+xav59310: calls 15
+Lamzouille59: checks
+*** FLOP *** [5d 5s Qd]
+Lamzouille59: checks
+xav59310: bets 90
+Lamzouille59: folds
+Uncalled bet (90) returned to xav59310
+xav59310 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Board [5d 5s Qd]
+Seat 2: xav59310 (button) (small blind) collected (60)
+Seat 3: Lamzouille59 (big blind) folded on the Flop
+
+
+*********** # 33 **************
+PokerStars Hand #166010489904: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:55:23 CET [2017/02/10 17:55:23 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (825 in chips)
+Seat 3: Lamzouille59 (675 in chips)
+Lamzouille59: posts small blind 15
+xav59310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [8s Ac]
+Lamzouille59: raises 45 to 75
+xav59310: folds
+Uncalled bet (45) returned to Lamzouille59
+Lamzouille59 collected 60 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 2: xav59310 (big blind) folded before Flop
+Seat 3: Lamzouille59 (button) (small blind) collected (60)
+
+
+*********** # 34 **************
+PokerStars Hand #166010477846: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:55:06 CET [2017/02/10 17:55:06 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (795 in chips)
+Seat 3: Lamzouille59 (705 in chips)
+xav59310: posts small blind 15
+Lamzouille59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [7c Qd]
+xav59310: calls 15
+Lamzouille59: checks
+*** FLOP *** [4h Jd Kh]
+Lamzouille59: checks
+xav59310: checks
+*** TURN *** [4h Jd Kh] [Qh]
+Lamzouille59: checks
+xav59310: checks
+*** RIVER *** [4h Jd Kh Qh] [7h]
+Lamzouille59: checks
+xav59310: bets 90
+Lamzouille59: folds
+Uncalled bet (90) returned to xav59310
+xav59310 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Board [4h Jd Kh Qh 7h]
+Seat 2: xav59310 (button) (small blind) collected (60)
+Seat 3: Lamzouille59 (big blind) folded on the River
+
+
+*********** # 35 **************
+PokerStars Hand #166010475408: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:55:03 CET [2017/02/10 17:55:03 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (780 in chips)
+Seat 3: Lamzouille59 (720 in chips)
+Lamzouille59: posts small blind 15
+xav59310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [8d 4c]
+Lamzouille59: folds
+Uncalled bet (15) returned to xav59310
+xav59310 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 2: xav59310 (big blind) collected (30)
+Seat 3: Lamzouille59 (button) (small blind) folded before Flop
+
+
+*********** # 36 **************
+PokerStars Hand #166010472505: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:54:59 CET [2017/02/10 17:54:59 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (795 in chips)
+Seat 3: Lamzouille59 (705 in chips)
+xav59310: posts small blind 15
+Lamzouille59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Jd 3d]
+xav59310: folds
+Uncalled bet (15) returned to Lamzouille59
+Lamzouille59 collected 30 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 2: xav59310 (button) (small blind) folded before Flop
+Seat 3: Lamzouille59 (big blind) collected (30)
+
+
+*********** # 37 **************
+PokerStars Hand #166010469671: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:54:56 CET [2017/02/10 17:54:56 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (780 in chips)
+Seat 3: Lamzouille59 (720 in chips)
+Lamzouille59: posts small blind 15
+xav59310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [4h Ts]
+Lamzouille59: folds
+Uncalled bet (15) returned to xav59310
+xav59310 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 2: xav59310 (big blind) collected (30)
+Seat 3: Lamzouille59 (button) (small blind) folded before Flop
+
+
+*********** # 38 **************
+PokerStars Hand #166010455470: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:54:40 CET [2017/02/10 17:54:40 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (750 in chips)
+Seat 3: Lamzouille59 (750 in chips)
+xav59310: posts small blind 15
+Lamzouille59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [3s 8s]
+xav59310: calls 15
+Lamzouille59: checks
+*** FLOP *** [9s 5c 7h]
+Lamzouille59: checks
+xav59310: bets 90
+Lamzouille59: folds
+Uncalled bet (90) returned to xav59310
+xav59310 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Board [9s 5c 7h]
+Seat 2: xav59310 (button) (small blind) collected (60)
+Seat 3: Lamzouille59 (big blind) folded on the Flop
+
+
+*********** # 39 **************
+PokerStars Hand #166010445582: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:54:28 CET [2017/02/10 17:54:28 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (810 in chips)
+Seat 3: Lamzouille59 (690 in chips)
+Lamzouille59: posts small blind 15
+xav59310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Ah As]
+Lamzouille59: raises 30 to 60
+xav59310: calls 30
+*** FLOP *** [Jc 3c 2d]
+xav59310: checks
+Lamzouille59: bets 60
+xav59310: folds
+Uncalled bet (60) returned to Lamzouille59
+Lamzouille59 collected 120 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Board [Jc 3c 2d]
+Seat 2: xav59310 (big blind) folded on the Flop
+Seat 3: Lamzouille59 (button) (small blind) collected (120)
+
+
+*********** # 40 **************
+PokerStars Hand #166010439890: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:54:22 CET [2017/02/10 17:54:22 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (780 in chips)
+Seat 3: Lamzouille59 (720 in chips)
+xav59310: posts small blind 15
+Lamzouille59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Ts Qd]
+xav59310: raises 750 to 780 and is all-in
+Lamzouille59: folds
+Uncalled bet (750) returned to xav59310
+xav59310 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 2: xav59310 (button) (small blind) collected (60)
+Seat 3: Lamzouille59 (big blind) folded before Flop
+
+
+*********** # 41 **************
+PokerStars Hand #166010435509: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:54:17 CET [2017/02/10 17:54:17 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (810 in chips)
+Seat 3: Lamzouille59 (690 in chips)
+Lamzouille59: posts small blind 15
+xav59310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [2c Ah]
+Lamzouille59: raises 30 to 60
+xav59310: folds
+Uncalled bet (30) returned to Lamzouille59
+Lamzouille59 collected 60 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 60 | Rake 0
+Seat 2: xav59310 (big blind) folded before Flop
+Seat 3: Lamzouille59 (button) (small blind) collected (60)
+
+
+*********** # 42 **************
+PokerStars Hand #166010432294: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:54:13 CET [2017/02/10 17:54:13 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (825 in chips)
+Seat 3: Lamzouille59 (675 in chips)
+xav59310: posts small blind 15
+Lamzouille59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Qh 9c]
+xav59310: folds
+Uncalled bet (15) returned to Lamzouille59
+Lamzouille59 collected 30 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 2: xav59310 (button) (small blind) folded before Flop
+Seat 3: Lamzouille59 (big blind) collected (30)
+
+
+*********** # 43 **************
+PokerStars Hand #166010429549: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level II (15/30) - 2017/02/10 23:54:10 CET [2017/02/10 17:54:10 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (810 in chips)
+Seat 3: Lamzouille59 (690 in chips)
+Lamzouille59: posts small blind 15
+xav59310: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [3d Jc]
+Lamzouille59: folds
+Uncalled bet (15) returned to xav59310
+xav59310 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0
+Seat 2: xav59310 (big blind) collected (30)
+Seat 3: Lamzouille59 (button) (small blind) folded before Flop
+
+
+*********** # 44 **************
+PokerStars Hand #166010414446: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level I (10/20) - 2017/02/10 23:53:58 CET [2017/02/10 17:53:58 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (790 in chips)
+Seat 3: Lamzouille59 (710 in chips)
+xav59310: posts small blind 10
+Lamzouille59: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Ac 7d]
+xav59310: raises 770 to 790 and is all-in
+Lamzouille59: folds
+Uncalled bet (770) returned to xav59310
+xav59310 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0
+Seat 2: xav59310 (button) (small blind) collected (40)
+Seat 3: Lamzouille59 (big blind) folded before Flop
+
+
+*********** # 45 **************
+PokerStars Hand #166010410547: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level I (10/20) - 2017/02/10 23:53:53 CET [2017/02/10 17:53:53 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (780 in chips)
+Seat 3: Lamzouille59 (720 in chips)
+Lamzouille59: posts small blind 10
+xav59310: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [2d 5s]
+Lamzouille59: folds
+Uncalled bet (10) returned to xav59310
+xav59310 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0
+Seat 2: xav59310 (big blind) collected (20)
+Seat 3: Lamzouille59 (button) (small blind) folded before Flop
+
+
+*********** # 46 **************
+PokerStars Hand #166010397822: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level I (10/20) - 2017/02/10 23:53:39 CET [2017/02/10 17:53:39 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (700 in chips)
+Seat 3: Lamzouille59 (800 in chips)
+xav59310: posts small blind 10
+Lamzouille59: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [4c 4h]
+xav59310: calls 10
+Lamzouille59: checks
+*** FLOP *** [Qd Qh 7d]
+Lamzouille59: checks
+xav59310: checks
+*** TURN *** [Qd Qh 7d] [Ac]
+Lamzouille59: bets 20
+xav59310: calls 20
+*** RIVER *** [Qd Qh 7d Ac] [Kc]
+Lamzouille59: bets 40
+xav59310: calls 40
+*** SHOW DOWN ***
+Lamzouille59: shows [4c 4h] (two pair, Queens and Fours)
+xav59310: shows [3c Ah] (two pair, Aces and Queens)
+xav59310 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0
+Board [Qd Qh 7d Ac Kc]
+Seat 2: xav59310 (button) (small blind) showed [3c Ah] and won (160) with two pair, Aces and Queens
+Seat 3: Lamzouille59 (big blind) showed [4c 4h] and lost with two pair, Queens and Fours
+
+
+*********** # 47 **************
+PokerStars Hand #166010374506: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level I (10/20) - 2017/02/10 23:53:12 CET [2017/02/10 17:53:12 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (610 in chips)
+Seat 3: Lamzouille59 (890 in chips)
+Lamzouille59: posts small blind 10
+xav59310: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [Jc Ks]
+Lamzouille59: raises 30 to 50
+xav59310: calls 30
+*** FLOP *** [5s 8h Tc]
+xav59310: checks
+Lamzouille59: bets 40
+xav59310: calls 40
+*** TURN *** [5s 8h Tc] [4c]
+xav59310: bets 520 and is all-in
+Lamzouille59: folds
+Uncalled bet (520) returned to xav59310
+xav59310 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Board [5s 8h Tc 4c]
+Seat 2: xav59310 (big blind) collected (180)
+Seat 3: Lamzouille59 (button) (small blind) folded on the Turn
+
+
+*********** # 48 **************
+PokerStars Hand #166010371565: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level I (10/20) - 2017/02/10 23:53:08 CET [2017/02/10 17:53:08 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (620 in chips)
+Seat 3: Lamzouille59 (880 in chips)
+xav59310: posts small blind 10
+Lamzouille59: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [4s 4d]
+xav59310: folds
+Uncalled bet (10) returned to Lamzouille59
+Lamzouille59 collected 20 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 20 | Rake 0
+Seat 2: xav59310 (button) (small blind) folded before Flop
+Seat 3: Lamzouille59 (big blind) collected (20)
+
+
+*********** # 49 **************
+PokerStars Hand #166010362963: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level I (10/20) - 2017/02/10 23:52:59 CET [2017/02/10 17:52:59 ET]
+Table '1821167321 1' 3-max Seat #3 is the button
+Seat 2: xav59310 (610 in chips)
+Seat 3: Lamzouille59 (890 in chips)
+Lamzouille59: posts small blind 10
+xav59310: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [5s Qh]
+Lamzouille59: folds
+Uncalled bet (10) returned to xav59310
+xav59310 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0
+Seat 2: xav59310 (big blind) collected (20)
+Seat 3: Lamzouille59 (button) (small blind) folded before Flop
+
+
+*********** # 50 **************
+PokerStars Hand #166010360037: Tournament #1821167321, €23.25+€1.75 EUR Hold'em No Limit - Level I (10/20) - 2017/02/10 23:52:55 CET [2017/02/10 17:52:55 ET]
+Table '1821167321 1' 3-max Seat #2 is the button
+Seat 2: xav59310 (620 in chips)
+Seat 3: Lamzouille59 (880 in chips)
+xav59310: posts small blind 10
+Lamzouille59: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Lamzouille59 [2s 5d]
+xav59310: folds
+Uncalled bet (10) returned to Lamzouille59
+Lamzouille59 collected 20 from pot
+Lamzouille59: doesn't show hand
+*** SUMMARY ***
+Total pot 20 | Rake 0
+Seat 2: xav59310 (button) (small blind) folded before Flop
+Seat 3: Lamzouille59 (big blind) collected (20)
