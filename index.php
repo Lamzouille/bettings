@@ -1,3 +1,13 @@
+<html>
+<head>
+  <title> Tracker Lamzouille </title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<div id="header" align="center">
+  -
+</div>
+<div id="main">
 <?php
 
 //Déclaration des variables
@@ -38,38 +48,84 @@ function eko($msg)
   echo "<br />";
 }
 
+
+class PokerFile {
+
+  public function readPokerFile($filename) {
+    $file = fopen("./log/$filename",'r');
+    //tant qu'il y'a du contenu on crée les mains associées
+    while(!feof($file))
+    {
+      $a = new Hand();
+      $a->readHand($file);
+      echo $a->poker_hand.'<br/>';
+      $a->insertHandDB($a->poker_hand,$a->date,$a->id,$a->result);
+    }
+  }
+}
+
+/*class Phase {
+  // PREFLOP, FLOP, ...
+  list<action>
+}
+class Action {
+  combien
+  type : relance,
+
+}*/
+
+class Hand {
+  public $id = '';
+  public $poker_hand = '';
+  public $date = '';
+  public $result = 'lose';
+  public $type = '';
+
+  //public $actions[];
+
+  public function insertHandDB($hand_,$date_,$id_,$result_)
+  {
+    $mysqli = new mysqli("localhost", "root", "","tracker");
+    if (!$mysqli->query("INSERT INTO TEST_HAND(ID,CARD1,CARD2,date_,result) VALUES('$id_',SUBSTRING('$hand_',1,2),SUBSTRING('$hand_',-2,2),'$date_','$result_')"))
+    {
+      echo "Echec de  la requete (". $mysqli->errno . ") " . $mysqli->error;
+    }
+  }
+  public function readHand($file) {
+    while($line = fgets($file)) {
+      if (strlen($line) == 2) {
+        fgets($file);
+        return;
+      }
+      //echo $line.'<br/>';
+      if(!substr_compare($line,"Dealt to Lamzouille59",0,21))
+      {
+        $this->poker_hand = substr($line,23,5);
+      }
+      if(!substr_compare($line,"PokerStars",0,10))
+      {
+        $arr_info = explode(" ",$line);
+        $this->date = $arr_info[15];//5Hand NumberFormatted
+        $this->id = $arr_info[2];
+        //echo $arr_info[5]; BuyIN Tournoi
+      }
+      if(!substr_compare($line,"Lamzouille59 collected",0,22))
+      {
+        $this->result = "win";
+      }
+    }
+  }
+
+}
+
+
+
 $mysqli = new mysqli("localhost", "root", "","tracker");
 if ($mysqli->connect_errno)
 {
   echo "Echec lors de la connexion à MySQL : (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
 }
 else eko("Connexion OK");
-
-function insert_hand($hand)
-{
-  $mysqli = new mysqli("localhost", "root", "","tracker");
-  if (!$mysqli->query("INSERT INTO TEST_HAND(CARD1,CARD2) VALUES(SUBSTRING('$hand',1,2),SUBSTRING('$hand',-2,2))"))
-  {
-    echo "Echec de  la requete (". $mysqli->errno . ") " . $mysqli->error;
-  }
-}
-
-function get_cards($filename)
-{
-  $file = fopen("./log/$filename",'r');
-  while($line = fgets($file))
-  {
-    if(!substr_compare($line,"Dealt to Lamzouille59",0,21))
-    {
-      $poker_hand = substr($line,23,5);
-      //eko ($poker_hand);
-      insert_hand($poker_hand);
-      //return substr($line,23,5);
-    }
-  }
-
-  fclose($file);
-}
 
 function get_top3_hands()
 {
@@ -81,7 +137,12 @@ function get_top3_hands()
 
 	/* Récupère un tableau associatif */
 	while ($row = $result->fetch_row()) {
-		eko ("$row[1], $row[2], $row[0]");
+		//eko ("$row[1], $row[2], $row[0]");
+    echo "<img src=\"img/$row[1].png\" width=\"40px\" heigth=\"40px\" border=\"1\"\">";
+    echo "  ";
+    echo "<img src=\"img/$row[2].png\" width=\"40px\" heigth=\"40px\"  border=\"1\"\">";
+    echo "<br/>";
+    //echo "<img src=\"img/$row[0].png\" width=\"50px\" heigth=\"50px\" \">";
 	}
 
 	/* Libère le jeu de résultats */
@@ -118,9 +179,12 @@ if($dossier = opendir('./log'))
       $nb_fichier++;
       echo '<li><a href="./log/' . $fichier . '">' . $fichier . '</a> [',count_hand($fichier),']</li>';
       $cpt_hand = $cpt_hand + count_hand($fichier);
-      get_cards($fichier);
+      //get_cards($fichier);
+      //getDateHand($fichier);
       //insertion en base des mains
 
+      $file = new PokerFile();
+      $file->readPokerFile($fichier);
     }
   }
 
@@ -135,8 +199,12 @@ else
 echo "<br />";
 echo "<br />";
 eko ("Nombre de mains jouées : $cpt_hand");
-
+echo "<div id=\"top3\" align=\"center\">";
 eko("TOP 3 des mains");
 get_top3_hands();
+echo "<br/><br/></div>";
+echo "</div>";
 
 ?>
+<div id="bottom" align="center">-</div>
+</body>
